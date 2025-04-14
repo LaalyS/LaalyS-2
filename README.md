@@ -1,6 +1,11 @@
 # LaalyS-2
-## Oiii! Eu sou a Laaly Santiago
- <div>
+## Oiii! Eu sou a Laaly Santiago🙋‍♀️
+
+*Execultando & projetando  aplicações*, *desenvolvo tanto no front-end* , *quanto no back-end* , *entao  Atuo na area da TI como full-stack* *And Solutions Engineering Apaaixonadaa pelo* 
+~*CODE!*~
+
+~_SEJA BEM VINDO A ESTE REPOSITORIO!!!_~ 🔙🤗
+<div>
   <a href="https://github.com/LaalyS">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=laalys&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laalys&layout=compact&langs_count=16&theme=dracula"/>
